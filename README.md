@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DocuMind – Enterprise RAG System
 
 DocuMind is an enterprise-style **Retrieval Augmented Generation (RAG)** system designed to process documents, store semantic embeddings, and enable intelligent query-based retrieval.
@@ -42,3 +43,6 @@ PDF → Text Extraction → Chunking → Embeddings → Pinecone Vector Store
 ---
 
 ## 📁 Project Structure
+=======
+# DocuMind-Enterprise
+>>>>>>> 7d5cab06bdaacb7287f2b89d3053293f08ed5ee5
